@@ -15,9 +15,10 @@ body {
 }
 
 .site-name {
-  color: white;
+  color: #39d353;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 16px;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .site-nav a {
